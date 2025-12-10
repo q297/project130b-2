@@ -1,0 +1,10 @@
+mlflow
+numpy
+pandas
+odfpy
+torch
+torchaudio
+torchcodec
+tqdm
+ipykernel
+torch-audiomentations

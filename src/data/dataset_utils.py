@@ -86,4 +86,4 @@ def create_splits(
 
 if __name__ == "__main__":
     collect_dataset_files(True, Path("/workspaces/super-duper-dollop/data/processed"))
-    create_splits(fixed_test_speakers=["29", "62"])
+    create_splits(seed=322)
